@@ -12,9 +12,9 @@ const image_profile = [
     ['https://wendellcarvalho.com.br/wp-content/uploads/2023/07/pessoa-intensa.jpg','loy'],
     ['https://media.licdn.com/dms/image/v2/D4D03AQE4kqKY_6AlmQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1708135913769?e=2147483647&v=beta&t=8sf9A1pz-F_tlOxzpt4G2PFldEeV-FS4FtwZdgD_SyQ','loy'],
     ['https://cdn.vnda.com.br/cobogo/2021/10/29/19_10_3_309_site_autor_PatrickPessoa.jpg?v=1775513608','loy'],
-    ['https://i.ibb.co/pJ8thst/account13.jpg','loy'],
-    ['https://i.ibb.co/4M3W996/account14.jpg','loy'],
-    ['https://i.ibb.co/Fzpg5yd/account15.jpg','loy'],
+    ['https://cajamar.sp.gov.br/noticias/wp-content/uploads/sites/2/2021/07/site-vacinacao-33-anos.png','loy'],
+    ['https://s2-oglobo.glbimg.com/6Jszzah_XGYop6I173dS4OE4lGQ=/0x107:2362x1557/888x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_da025474c0c44edd99332dddb09cabe8/internal_photos/bs/2023/B/7/BTZjbdREKYomgDBUVfIQ/jenn-granneman-5.jpg','loy'],
+    ['https://www.infomoney.com.br/wp-content/uploads/2019/06/pessoa-feliz.jpg?fit=900%2C600&quality=50&strip=all','loy'],
 ]
 const story_container = document.querySelector('.owl-carousel.items');
 if(story_container){
